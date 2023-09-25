@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendToTelegram</string>
+    <string name="tv_messege">messege</string>
+    <string name="tv_send">send</string>
+</resources>
